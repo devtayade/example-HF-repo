@@ -14,6 +14,16 @@
 
 { "id": "2",
 
+"courseTopic": "Java",
+
+"courseTitle": "Java Full Course - Learn Java in 10 Hours | Java Tutorial | Complete Java Tutorial | Edureka",
+
+"providedBy": "edureka",
+
+"domains": ["java", "android", "app developement"],
+
+"link": "https://www.youtube.com/watch?v=hBh_CC5y8-s"
+=======
 "courseTopic": "Web Development",
 
 "courseTitle": "Kotlin Full Course - Learn Kotlin in 4 Hours | Kotlin Tutorial | Kotlin Android Tutorial | Edureka",
@@ -23,5 +33,5 @@
 "domains": ["kotlin", "android", "app developement"],
 
 "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-}
+
 ]
