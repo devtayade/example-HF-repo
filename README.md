@@ -1,3 +1,3 @@
 # example-HF-repo
 
-this is demo to apply label.
+This is Demo to Apply Label.
